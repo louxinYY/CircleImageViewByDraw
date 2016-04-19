@@ -13,6 +13,6 @@
         <attr name="circlecontentColor" format="color" />
         <attr name="circleDefaultColor" format="color" />
         <attr name="circleColor" format="color" />
-        <attr name="circleStrokeWidth" format="integer" />
+            <attr name="circleStrokeWidth" format="integer" />
     </declare-styleable>
 </resources>
