@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    xmlns:lx="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.shinetechzz.lx.circleimageviewbydraw.CircleImageViewByDraw
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        lx:circleTitle="75%"
+        lx:circleContent="zz"
+        lx:circleAngle="-90"
+        lx:circleAllAngle="360"
+        lx:circleProgress="75"
+        lx:circleMaxProgress="100"
+        lx:circleTitleSize="30sp"
+        lx:circleContentSize="15dp"
+        lx:circletitleColor="#ffffff"
+        lx:circlecontentColor="#ffffff"
+        lx:circleColor="#ffffff"
+        lx:circleStrokeWidth="18"
+        />
+    <com.shinetechzz.lx.circleimageviewbydraw.CircleImageViewByDraw
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        lx:circleTitle="75%"
+        lx:circleContent="zz"
+        lx:circleAngle="-225"
+        lx:circleAllAngle="270"
+        lx:circleProgress="75"
+        lx:circleMaxProgress="100"
+        lx:circleTitleSize="30sp"
+        lx:circleContentSize="15dp"
+        lx:circletitleColor="#ffffff"
+        lx:circlecontentColor="#ffffff"
+        lx:circleColor="#ffffff"
+        lx:circleStrokeWidth="18"
+        />
+</LinearLayout>

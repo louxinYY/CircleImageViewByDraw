@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleStyle">
+        <attr name="circleTitle" format="string" />
+        <attr name="circleContent" format="string" />
+        <attr name="circleAngle" format="integer" />
+        <attr name="circleAllAngle" format="integer" />
+        <attr name="circleProgress" format="integer" />
+        <attr name="circleMaxProgress" format="integer" />
+        <attr name="circleTitleSize" format="dimension" />
+        <attr name="circleContentSize" format="dimension" />
+        <attr name="circletitleColor" format="color" />
+        <attr name="circlecontentColor" format="color" />
+        <attr name="circleDefaultColor" format="color" />
+        <attr name="circleColor" format="color" />
+        <attr name="circleStrokeWidth" format="integer" />
+    </declare-styleable>
+</resources>
