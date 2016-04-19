@@ -1,6 +1,7 @@
 # CircleImageViewByDraw   
 ##Usage
-
+##Demo
+![](https://github.com/louxin2015/CircleImageViewByDraw/blob/master/preview_1.png)
 ###1. 
 ```java
 /**
